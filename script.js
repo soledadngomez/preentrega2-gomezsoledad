@@ -264,7 +264,7 @@ function mostrarProductos() {
 		column.innerHTML = `
             <div class="card">
                 <div class="card-body">
-                <img src="{./libros/libro_generico.png}" alt="producto" id="mouse">   
+                <img src="./libros/libro_generico.png" alt="producto" id="mouse">   
                 <p class="card-text">ID:
                     <b>${producto.id}</b>
                 </p>
